@@ -1,0 +1,9 @@
+{
+  "name": "project",
+  "description": "description",
+  "version": "0.0.1",
+  "devDependencies": {
+    "dalekjs": "*",
+    "dalek-browser-chrome": "*"
+  }
+}
